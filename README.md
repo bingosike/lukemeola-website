@@ -1,4 +1,4 @@
-]<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -131,7 +131,7 @@
   </section>
 
   <footer>
-    <p>&copy; 2025 Luke Meola.</p>
+    <p>&copy; 2025 Luke Meola. Built with love, HTML, CSS, and JS.</p>
   </footer>
 
   <script>
@@ -175,4 +175,4 @@
     window.addEventListener('load', revealOnScroll);
   </script>
 </body>
-</html>  
+</html>
